@@ -1,7 +1,7 @@
 /* universal selector */
-*{
+/* *{
     margin: 0;
-}
+} */
 
 h1, h3{
     background-color: antiquewhite;
@@ -20,4 +20,8 @@ h3{
     background-color: coral;
     color:white;
     width: 20%;
+}
+#firstspan{
+    font-size: larger;
+    color: red;
 }
