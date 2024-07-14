@@ -1,0 +1,18 @@
+h1, h3{
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+}
+
+h3{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#para{
+    text-align: justify;
+}
+.firstclass{
+    background-color: coral;
+    color:white;
+    width: 20%;
+}
